@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Control Panel for Twitter (local)"
+    "message": "Control Panel for Twitter (LocalUseOnly)"
   },
   "extensionDescription": {
     "message": "Twitter をより細かく制御し、不足している機能を追加して UI を改善します",
