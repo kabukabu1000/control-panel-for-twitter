@@ -1,18 +1,25 @@
-# Control Panel for Twitter
+# Control Panel for Twitter for Manifest v3
 
 ![](icons/icon128.png)
 
 **Control Panel for Twitter is a browser extension which gives you more control over Twitter and adds missing features and UI improvements**
 
-## Install
-LocalUseOnly
-
 
 ## Releases / What's New?
 
-The [Control Panel for Twitter Releases page](https://github.com/insin/control-panel-for-twitter/releases) highlights new features, changes and fixes in each version, and shows which version is currently published on each of the browser extension stores.
+Manifest v3 provides guidelines for Chrome extension developers as they transition from the legacy extension model to the new model There are some important changes regarding the transition to v3.
 
-New versions can take anything from minutes to days to be approved for publishing after they're submitted to a browser extension store.
+If they remain non-compliant with v3, the following consequences are possible
+
+Functionality limitations: extensions that are not v3 compliant may not be able to take advantage of some new features and improvements. This includes changes that are beneficial to extension developers, such as new APIs and security features.
+
+Security issues: Chrome is focused on improving security, and if an older version of an extension is insecure, this could put users' data and privacy at risk. updating to v3 provides a more secure environment.
+
+Loss of compatibility: in future versions of Chrome, extensions that are not compatible with v3 may no longer work. This may result in users not being able to use some of the functionality they need.
+
+Loss of user trust: extensions that do not meet the latest standards in terms of security and functionality may cause users to lose trust in them. It is also important for developers to provide extensions that are secure and useful for users.
+
+In general, support for v3 is important for extension developers. We recommend that you consider moving to v3 to ensure that you can provide safer and more convenient extensions to your users in the wake of future Chrome upgrades and security improvements.
 
 ## Features
 
