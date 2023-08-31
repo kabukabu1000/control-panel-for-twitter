@@ -88,9 +88,11 @@ In general, support for v3 is important for extension developers. We recommend t
 
 
 ### Language support
-
-日本語 (Japanese)
+- English
 - Japanese (translation by [@MitoKurato](https://github.com/MitoKurato))
+- French (translation by @THEDARKK)
+- Korean Simplified Chinese (translation by @CodeQiu)
+- Spanish (translation by @rogama25)
 
 ### User script support
 
